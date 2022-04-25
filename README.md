@@ -15,9 +15,11 @@ Overview:
 - Require users to login in order to view posts and post themselves
     - create a login.js
     - if users are logged in, redirect to posts page (App)
+    - provide an error if login is incorrect
 - Provide a means to signup
     - create a signup.js
     - if users are logged in, redirect to posts page
+    - provide an error if signup is incorrect
 - Provide a means to logout as implemented on the posts page
     - create a logout.js
 - Implement routes (including a 404 page with a link to login)
