@@ -7,7 +7,7 @@ Please reference blackboard for the most current assignment instructons/requirem
 Overview:
 
 - Convert class components to functional components. Implement useState() as needed
-    - AddTopics
+    - AddTopics 
     - App
     - RenderPost
     - TitleBar
